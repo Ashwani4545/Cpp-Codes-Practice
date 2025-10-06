@@ -52,7 +52,7 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/yourusername/cpp-practice.git
+git clone https://github.com/Ashwani4545/cpp-practice.git
 
 
 Navigate to the folder containing the program you want to run:
