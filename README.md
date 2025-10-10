@@ -95,7 +95,6 @@ Add new practice programs.
 Optimize existing code.
 
 Provide solutions with better readability and documentation.
-
 Please make a pull request or raise an issue for discussion.
 
 License
