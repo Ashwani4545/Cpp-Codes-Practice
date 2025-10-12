@@ -1,7 +1,7 @@
 C++ Practice Repository
 Overview
 
-This repository contains various C++ practice programs designed to strengthen problem-solving skills, enhance understanding of C++ concepts, and prepare for coding interviews and academic exercises. The code covers fundamental to advanced topics in C++, including object-oriented programming, data structures, algorithms, and standard library usage.
+It contains various C++ practice programs designed to strengthen problem-solving skills, enhance understanding of C++ concepts, and prepare for coding interviews and academic exercises. The code covers fundamental to advanced topics in C++, including object-oriented programming, data structures, algorithms, and standard library usage.
 
 Table of Contents
 
